@@ -1,4 +1,4 @@
-![My photo](https://psv4.userapi.com/c240331/u171630017/docs/d23/d3b474d2d2fe/Polish_20220827_222428043.png?extra=j1e4gqEtMm6ecPfMfLIuZhOl4et-WKMis_LAA3YY-d7OTRV2vxV_aRPPN1D4kxofOrpMabdHQm8AVdRaMSc8ouurRPveTfijVtWElOgqGfkNa-eBlrilDgJzZs-fa7wNzW47apt8lRo6LqRHrONFLpYTSQ)
+![My photo](photo.png)
 # Sergey Luzik
 
 ### Contacts:
