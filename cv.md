@@ -1,4 +1,4 @@
-![My photo](/photo.png)
+![My photo](photo.png)
 # Sergey Luzik
 
 ### Contacts:
